@@ -1,5 +1,6 @@
 # Dify vs Flowise
 2025년 1월 26일, Amit Yadav 작성
+원본: [Dify vs Flowise](https://datascientistsdiary.com/dify-vs-flowise/)
 
 ## 서론
 
